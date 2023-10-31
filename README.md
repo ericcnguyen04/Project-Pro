@@ -1,5 +1,5 @@
 # Project-Pro
-Project Pro will be a productivity app designed to keep track of all 'universe' in your life, whether it is work, school, hobbies, etc.
+Project Pro will be a productivity app designed to keep track of all 'galaxy' in your life, whether it is work, school, hobbies, etc. With this 
 
 ## Approach
 
