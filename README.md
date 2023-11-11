@@ -5,7 +5,7 @@ Project Pro will be a productivity app designed to keep track of all 'galaxy' in
 In developing Project Pro, the approach will focus on creating an intuitive and user-friendly interface. Drawing inspiration from successful productivity tools like Notion, the goal is to provide a seamless experience for users to manage and navigate through their different 'galaxies' effortlessly.
 
 ## Technologies Used
-
+Project Pro will be built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, a powerful and popular choice for developing full-stack applications. This technology stack enables a smooth integration of the front-end and back-end, ensuring a responsive and dynamic user experience.
 
 ## Wireframe
 
