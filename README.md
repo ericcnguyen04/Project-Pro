@@ -22,7 +22,12 @@ Secure user data with authentication features to ensure private and personalized
 Ensure the app is accessible and functions seamlessly across various devices and screen sizes.
 
 ## Stretch Goals
-
+1. Collaborative Editing
+Enable real-time collaboration on tasks and projects within a 'galaxy.'
+2. Mobile App
+Develop a mobile application to extend the accessibility of Project Pro.
+3. Integration with External Tools
+Allow users to integrate their Project Pro 'universe' with other productivity tools or services.
 
 ## Post Project Reflection
 
