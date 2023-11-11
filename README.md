@@ -1,34 +1,70 @@
-# Project-Pro
-Project Pro will be a productivity app designed to keep track of all 'galaxy' in your life, whether it is work, school, hobbies, etc. With all of these 'galaxies' to keep track of, it truly is challenging. Combining all galaxies will form into a universe, Project Pro. This project is an inspiration of a rising software, Notion. This trending software attacked my ego and skillset, and I strive to replicate it.
+# Getting Started with Create React App
 
-## Approach
-In developing Project Pro, the approach will focus on creating an intuitive and user-friendly interface. Drawing inspiration from successful productivity tools like Notion, the goal is to provide a seamless experience for users to manage and navigate through their different 'galaxies' effortlessly.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Technologies Used
-Project Pro will be built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, a powerful and popular choice for developing full-stack applications. This technology stack enables a smooth integration of the front-end and back-end, ensuring a responsive and dynamic user experience.
+## Available Scripts
 
-## Wireframe
+In the project directory, you can run:
 
-## MVP Goals
-1. Galaxy Management System
-Users can create, edit, and delete different 'galaxies' (categories) for organizing their tasks and information.
-2. Task Tracking
-Within each 'galaxy,' users can add, update, and remove tasks, setting due dates and priorities.
-3. Rich Text Editor
-Implement a Notion-like rich text editor to enable users to format their notes, create to-do lists, and add multimedia content.
-4. User Authentication
-Secure user data with authentication features to ensure private and personalized access to their 'universe.'
-5. Responsive Design
-Ensure the app is accessible and functions seamlessly across various devices and screen sizes.
+### `npm start`
 
-## Stretch Goals
-1. Collaborative Editing
-Enable real-time collaboration on tasks and projects within a 'galaxy.'
-2. Mobile App
-Develop a mobile application to extend the accessibility of Project Pro.
-3. Integration with External Tools
-Allow users to integrate their Project Pro 'universe' with other productivity tools or services.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Post Project Reflection
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Sources Used
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
