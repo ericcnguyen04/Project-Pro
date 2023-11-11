@@ -10,7 +10,16 @@ Project Pro will be built using the MERN (MongoDB, Express.js, React.js, Node.js
 ## Wireframe
 
 ## MVP Goals
-
+1. Galaxy Management System
+Users can create, edit, and delete different 'galaxies' (categories) for organizing their tasks and information.
+2. Task Tracking
+Within each 'galaxy,' users can add, update, and remove tasks, setting due dates and priorities.
+3. Rich Text Editor
+Implement a Notion-like rich text editor to enable users to format their notes, create to-do lists, and add multimedia content.
+4. User Authentication
+Secure user data with authentication features to ensure private and personalized access to their 'universe.'
+5. Responsive Design
+Ensure the app is accessible and functions seamlessly across various devices and screen sizes.
 
 ## Stretch Goals
 
